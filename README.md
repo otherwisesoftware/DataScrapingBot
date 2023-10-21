@@ -18,6 +18,6 @@ These instructions will help you set up the project locally.
 npm install
 
 
-node runAll.js
+npm start
 
 
