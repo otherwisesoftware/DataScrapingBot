@@ -2,9 +2,9 @@
   "name": "api-data-fetcher",
   "version": "1.0.0",
   "description": "A script to fetch data from a REST API and save it to a JSON file",
-  "main": "fetchData.js",
+  "main": "runAll.js",
   "scripts": {
-    "start": "node fetchData.js"
+    "start": "node runAll.js"
   },
   "dependencies": {
     "axios": "^1.5.1",
