@@ -11,7 +11,7 @@ These instructions will help you set up the project locally.
 
 ### Installation
 
-1. Clone the [[https://github.com/mazinsafadi/DataScrapingBot.git](https://github.com/otherwisesoftware/DataScrapingBot.git](https://github.com/otherwisesoftware/DataScrapingBot.git)) repository.
+1. Clone the https://github.com/otherwisesoftware/DataScrapingBot.git repository.
 2. Navigate to the project directory.
 3. Run the following command to install the necessary dependencies:
 ```bash
